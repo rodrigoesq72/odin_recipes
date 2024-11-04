@@ -11,13 +11,18 @@ img {
     display: flex;
     justify-content: space-around;
 }
-h1 {
+
+h1, h2 {
     text-align: center;
-    font-family: "Courier New", Courier, monospace;
+    background-color: burlywood;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+h1 {
+    font-size: 50px;
     padding-bottom: 50px;
     padding-top: 50px;
-    background-color: burlywood;
-    font-size: 50px;
 }
 
 body {
