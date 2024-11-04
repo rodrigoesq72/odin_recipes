@@ -33,3 +33,7 @@ body {
 button {
     background-color: burlywood;
 }
+
+p {
+    text-align: center;
+}
