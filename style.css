@@ -1,6 +1,12 @@
 .linkimage {
     height: 200px; width: auto;
 }
+
+img {
+    height: 400px; width: auto;
+    text-align: center;
+}
+
 .linkcontainer {
     display: flex;
     justify-content: space-around;
