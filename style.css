@@ -15,7 +15,6 @@ img {
 
 h1, h2 {
     text-align: center;
-    background-color: burlywood;
     padding-bottom: 25px;
     padding-top: 25px;
 }
@@ -31,7 +30,7 @@ body {
     font-family: "Courier New", Courier, monospace;
 }
 
-button {
+button, h1, h2 {
     background-color: burlywood;
 }
 
